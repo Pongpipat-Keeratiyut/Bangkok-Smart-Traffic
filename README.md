@@ -1,2 +1,3 @@
 # Bangkok-Smart-Traffic
-My first code project
+
+This project is a future concept that if Bangkok installs CCTV cameras that process AI that can count the amount of cars moving in different directions in real time, CCTV cameras that count the number of cars stopped at each intersection in real time, and CCTV cameras that count the number of accidents in that area, this data will be sent from various types of CCTV cameras to this software for Bangkok traffic officers to know. Then the officers will analyze the data and notify the areas with traffic jams or routes that should be avoided at the smart traffic signs to let commuters in that area know that instead of going straight to go home, when they see the information from the smart traffic signs that recommend turning right and entering the alley instead, which will help those who do not have a navigation system to know the information.
